@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Bernardo Buity Tati, tenho 15 anos e sou natural de Cabinda. Sou estudante do Ensino médio, com o curso técnico em informática. Atualmente, ainda estou aprendendo a programar para ser Fullstack. Sou apaixonado por tecnologia.
+Me chamo Bernardo Buity Tati, tenho 15 anos e sou natural de Cabinda moro em Luanda. Sou estudante do Ensino médio, com o curso técnico em informática. Atualmente, ainda estou aprendendo a programar para ser Fullstack. Sou apaixonado por tecnologia.
 
 <p align="left">
     <a href="https://github.com/Bernardo-git-dev?tab=repositories&sort=stargazers">
