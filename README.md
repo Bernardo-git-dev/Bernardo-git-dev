@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" alt="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" alt="Material UI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" width="40" alt="Gatsby"/>
 </div>
@@ -70,9 +70,9 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
-  <img src="https://www.vectorlogo.zone/logos/notionhq/notionhq-icon.svg" width="40" alt="Notion"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.44.0/files/light/notion.png" width="40" alt="Notion"/>
   <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="40" alt="Trello"/>
-  <img src="https://www.vectorlogo.zone/logos/insomnia_rest/insomnia_rest-icon.svg" width="40" alt="Insomnia"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Insomnia.svg" width="40" alt="Insomnia"/>
 </div>
 
 
