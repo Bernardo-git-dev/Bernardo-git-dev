@@ -90,3 +90,4 @@
 
 ![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
 ![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
+<img src="https://user-images.githubusercontent.com/59142372/235149067-eff90953-4669-43ab-a986-3a6c4d845f0b.gif" alt="animation" />
