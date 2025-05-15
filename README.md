@@ -88,6 +88,9 @@
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
+## 📊 Estatísticas do GitHub
+
+![Overview](https://github.com/Bernardo-git-dev/Bernardo-git-dev/raw/main/generated/overview.svg)
+![Languages](https://github.com/Bernardo-git-dev/Bernardo-git-dev/raw/main/generated/languages.svg)
+
 <img src="https://user-images.githubusercontent.com/59142372/235149067-eff90953-4669-43ab-a986-3a6c4d845f0b.gif" alt="animation" />
