@@ -90,7 +90,6 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Overview](https://github.com/Bernardo-git-dev/Bernardo-git-dev/raw/main/generated/overview.svg)
-![Languages](https://github.com/Bernardo-git-dev/Bernardo-git-dev/raw/main/generated/languages.svg)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bernardo-git-dev&theme=default)
+--
 <img src="https://user-images.githubusercontent.com/59142372/235149067-eff90953-4669-43ab-a986-3a6c4d845f0b.gif" alt="animation" />
