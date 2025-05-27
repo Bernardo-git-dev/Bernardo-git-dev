@@ -1,16 +1,16 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 <h2 align="left">
- <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Bernardo Tati, Full Stack Web Developer :computer:<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+  <br>I'm <strong>Bernardo Tati</strong>, a Full Stack Web Developer :computer:<br><br>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</h2>
 
-## 🌐 Frontend
+---
+
+<h2 align="left">🛠️ Technologies & Tools</h2>
+
+### 🌐 Frontend
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3"/>
@@ -25,16 +25,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" width="40" alt="Gatsby"/>
 </div>
 
-## 🧠 Backend
+### 🧠 Backend
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" alt="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" alt=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="40" alt="ASP.NET"/>
 </div>
 
-## 💾 Bancos de Dados
+### 💾 Databases
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL"/>
@@ -42,14 +45,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="40" alt="Redis"/>
 </div>
 
-## 🧪 Testes e APIs
+### 🧪 Testing & APIs
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" alt="Jest"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="40" alt="Mocha"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman"/>
 </div>
 
-## 🔧 Versionamento e DevOps
+### 🔧 Version Control & DevOps
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
@@ -57,7 +60,7 @@
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" alt="Kubernetes"/>
 </div>
 
-## ☁️ Cloud e Deploy
+### ☁️ Cloud & Deployment
 <div align="left">
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" alt="Azure"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" alt="Google Cloud"/>
@@ -66,7 +69,7 @@
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" alt="Netlify"/>
 </div>
 
-## 🧰 Ferramentas Adicionais
+### 🧰 Additional Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
@@ -75,21 +78,22 @@
   <img src="https://icon.icepanel.io/Technology/svg/Insomnia.svg" width="40" alt="Insomnia"/>
 </div>
 
+---
 
+<h2 align="left">👨🏻‍💻 About Me</h2>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+- 💻 Full Stack Developer  
+- ⏳ Passionate about learning new technologies  
+- 🚀 Always open to collaboration and innovation  
+- 🧑‍💼 Former Project Lead Intern at GirlScript Foundation  
+- 🎯 Life Motto: “Explore 🔥 and explode 💣 with knowledge”  
+- 🏆 Awarded Best Young Developer in Angola  
+- ⚡ Fun Fact: I love attending meetups and tech conferences
 
-- :computer: I'm a Fullstack Developer,
-- :hourglass_flowing_sand: Exploring New tecnologies
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: Best young Developer in Angola
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+---
 
+## 📊 GitHub Stats
 
-## 📊 Estatísticas do GitHub
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bernardo-git-dev&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bernardo-git-dev&theme=default)
---
 <img src="https://user-images.githubusercontent.com/59142372/235149067-eff90953-4669-43ab-a986-3a6c4d845f0b.gif" alt="animation" />
