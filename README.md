@@ -12,15 +12,17 @@
 <h2 align="left">🛠️ Tech Stack</h2>
 
 ### 🔷 TypeScript Ecosystem
+<!-- TypeScript Ecosystem -->
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
-  <img src="https://nestjs.com/img/logo-small.svg" width="40" alt="NestJS"/>
-  <img src="https://raw.githubusercontent.com/remix-run/remix/main/public/favicon-192.png" width="40" alt="Remix"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" style="background-color:white; border-radius:8px; padding:4px;"/>
+  <img src="https://nestjs.com/img/logo-small.svg" width="40" alt="NestJS" style="background-color:white; border-radius:8px; padding:4px;"/>
+  <img src="https://raw.githubusercontent.com/remix-run/remix/main/public/favicon-192.png" width="40" alt="Remix" style="background-color:white; border-radius:8px; padding:4px;"/>
   <img src="https://www.vectorlogo.zone/logos/prismaio/prismaio-icon.svg" width="40" alt="Prisma"/>
-  <img src="https://seeklogo.com/images/T/typeorm-logo-F5B6DC9954-seeklogo.com.png" width="40" alt="TypeORM"/>
+  <img src="https://seeklogo.com/images/T/typeorm-logo-F5B6DC9954-seeklogo.com.png" width="40" alt="TypeORM" style="background-color:white; border-radius:8px; padding:4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" alt="Sequelize"/>
 </div>
+
 
 ### ⚛️ Frontend
 <div align="left">
@@ -39,8 +41,9 @@
 <div align="left">
   <!-- Node.js stack -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" alt="Express"/>
-  <img src="https://www.vectorlogo.zone/logos/fastifyio/fastifyio-icon.svg" width="40" alt="Fastify"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" alt="Express" style="background-color:white; border-radius:8px; padding:4px;"/>
+  <img src="https://www.vectorlogo.zone/logos/fastifyio/fastifyio-icon.svg" width="40" alt="Fastify" style="background-color:white; border-radius:8px; padding:4px;"/>
+
 
   <!-- Python stack -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
