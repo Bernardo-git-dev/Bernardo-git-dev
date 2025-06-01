@@ -1,24 +1,34 @@
+<!-- Devicon CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 <h2 align="left">
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br>I'm <strong>Bernardo Tati</strong>, a Full Stack Web Developer :computer:<br><br>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  <br>Hello there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br><br>
+  I'm <strong>Bernardo Tati</strong>, a Full Stack Web Developer :computer:<br><br>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="500">
 </h2>
 
 ---
 
-<h2 align="left">🛠️ Technologies & Tools</h2>
+<h2 align="left">🛠️ Tech Stack</h2>
 
-### 🌐 Frontend
+### 🔷 TypeScript Ecosystem
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
+  <img src="https://nestjs.com/img/logo-small.svg" width="40" alt="NestJS"/>
+  <img src="https://raw.githubusercontent.com/remix-run/remix/main/public/favicon-192.png" width="40" alt="Remix"/>
+  <img src="https://www.vectorlogo.zone/logos/prismaio/prismaio-icon.svg" width="40" alt="Prisma"/>
+  <img src="https://seeklogo.com/images/T/typeorm-logo-F5B6DC9954-seeklogo.com.png" width="40" alt="TypeORM"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" alt="Sequelize"/>
+</div>
+
+### ⚛️ Frontend
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="Sass"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" alt="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" alt="Material UI"/>
@@ -27,14 +37,38 @@
 
 ### 🧠 Backend
 <div align="left">
+  <!-- Node.js stack -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" alt="Express"/>
+  <img src="https://www.vectorlogo.zone/logos/fastifyio/fastifyio-icon.svg" width="40" alt="Fastify"/>
+
+  <!-- Python stack -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask"/>
+  <img src="https://raw.githubusercontent.com/mwittrien/colored-icons/master/svg/fastapi.svg" width="40" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django"/>
+
+  <!-- Java stack -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" alt="Spring Boot"/>
+
+  <!-- Others -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" alt=".NET"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="40" alt="ASP.NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" alt="Golang"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C Language"/>
+</div>
+
+### 🤖 Artificial Intelligence & Machine Learning
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" alt="Scikit-Learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
 </div>
 
 ### 💾 Databases
@@ -82,18 +116,20 @@
 
 <h2 align="left">👨🏻‍💻 About Me</h2>
 
-- 💻 Full Stack Developer  
-- ⏳ Passionate about learning new technologies  
-- 🚀 Always open to collaboration and innovation  
-- 🧑‍💼 Former Project Lead Intern at GirlScript Foundation  
-- 🎯 Life Motto: “Explore 🔥 and explode 💣 with knowledge”  
+- 💻 Full Stack Developer (Frontend + Backend + DevOps)  
+- ⏳ Passionate about clean code, scalable systems, and new technologies  
+- 🚀 Open to collaboration, innovation, and open-source contributions  
+- 🧑‍💼 Former Project Lead Intern @ GirlScript Foundation  
 - 🏆 Awarded Best Young Developer in Angola  
-- ⚡ Fun Fact: I love attending meetups and tech conferences
+- 🎯 Life Motto: “Explore 🔥 and explode 💣 with knowledge”  
+- ⚡ Fun Fact: I love tech meetups and developer conferences  
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bernardo-git-dev&theme=default)
+
+---
 
 <img src="https://user-images.githubusercontent.com/59142372/235149067-eff90953-4669-43ab-a986-3a6c4d845f0b.gif" alt="animation" />
