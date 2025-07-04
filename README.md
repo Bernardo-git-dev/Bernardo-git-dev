@@ -12,6 +12,13 @@
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bernardo-git-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bernardo-git-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+---
+
 ## 🧠 Sobre Mim
 
 Sou um desenvolvedor fullstack apaixonado por tecnologia, design futurista e sistemas Linux. Com apenas 15 anos, já atuo em projetos modernos, usando stacks de ponta com foco em microserviços, DevOps e frontend de alta performance.
@@ -22,37 +29,56 @@ Sou um desenvolvedor fullstack apaixonado por tecnologia, design futurista e sis
 
 ### 🧩 **Frontend**
 <div align="left">
-<div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="50" />
   <img src="https://skillicons.dev/icons?i=css" height="50" />
   <img src="https://skillicons.dev/icons?i=js" height="50" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" />
   <img src="https://skillicons.dev/icons?i=react" height="50" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" />
+  <img src="https://skillicons.dev/icons?i=vue" height="50" />
+  <img src="https://skillicons.dev/icons?i=svelte" height="50" />
+  <img src="https://skillicons.dev/icons?i=solidjs" height="50" />
+  <img src="https://skillicons.dev/icons?i=astro" height="50" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="50" />
+  <img src="https://skillicons.dev/icons?i=sass" height="50" />
   <img src="https://skillicons.dev/icons?i=graphql" height="50" />
   <img src="https://skillicons.dev/icons?i=redux" height="50" />
-  <img src="https://skillicons.dev/icons?i=sass" height="50" />
   <img src="https://skillicons.dev/icons?i=vitest" height="50" />
   <img src="https://skillicons.dev/icons?i=jest" height="50" />
-  <img src="https://raw.githubusercontent.com/AlmogBaku/awesome-gsap/master/gsap-logo.png" height="50" alt="GSAP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="50" />
 </div>
 
 ---
 
-### 🧪 **Backend & APIs**
+### 🧪 **Backend & Infraestrutura**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" />
-  <img src="https://skillicons.dev/icons?i=go" height="50" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img src="https://skillicons.dev/icons?i=java" height="50" />
-  <img src="https://skillicons.dev/icons?i=spring" height="50" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="50" />
-  <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" height="50" alt="Zod" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" />
+  <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=appwrite" height="40" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" />
+</div>
+
+---
+
+### ☁️ **Cloud & Plataformas**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="50" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="50" />
+  <img src="https://skillicons.dev/icons?i=azure" height="50" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="50" />
 </div>
 
 ---
@@ -61,15 +87,12 @@ Sou um desenvolvedor fullstack apaixonado por tecnologia, design futurista e sis
 <div align="left">
   <img src="https://skillicons.dev/icons?i=docker" height="50" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="50" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" />
-  <img src="https://skillicons.dev/icons?i=azure" height="50" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="50" />
   <img src="https://skillicons.dev/icons?i=linux" height="50" />
   <img src="https://skillicons.dev/icons?i=bash" height="50" />
   <img src="https://skillicons.dev/icons?i=git" height="50" />
   <img src="https://skillicons.dev/icons?i=github" height="50" />
   <img src="https://skillicons.dev/icons?i=neovim" height="50" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="50" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="50" />
 </div>
 
 ---
@@ -90,13 +113,18 @@ Sou um desenvolvedor fullstack apaixonado por tecnologia, design futurista e sis
   <a href="https://github.com/Bernardo-git-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Bernardo--git--dev-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:bernardo.dev@exemplo.com">
+  <a href="mailto:bernardotati0305@gmail.com">
     <img src="https://img.shields.io/badge/Email-bernardo.dev@exemplo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bernardo-git-dev&label=Visualizações&color=blue&style=flat-square" />
-</p>
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bernardo-git-dev/Bernardo-git-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bernardo-git-dev/Bernardo-git-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bernardo-git-dev/Bernardo-git-dev/output/pacman-contribution-graph.svg">
+</picture>
+
+###
