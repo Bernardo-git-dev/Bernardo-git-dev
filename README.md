@@ -1,13 +1,13 @@
-<h1 align="center">Olá, eu sou o Bernardo! 🚀</h1>
+<h1 align="center">Hey there, I'm Bernardo! 🚀</h1>
 
 <p align="center">
-  👨‍💻 Fullstack Developer • ☁️ DevOps Enthusiast • 🎨 Design Futurista • 🐧 Usuário Fedora Linux
+  👨‍💻 Fullstack Developer • ☁️ DevOps Enthusiast • 🎨 Futuristic Design Lover • 🐧 Fedora Linux User
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Idade-15%20anos-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sistema-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img src="https://img.shields.io/badge/Foco-Inovação-e-Tecnologia-8e44ad?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Age-15%20years-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Innovation%20%26%20Tech-8e44ad?style=for-the-badge" />
 </p>
 
 ---
@@ -19,76 +19,39 @@
 
 ---
 
-## 🧠 Sobre Mim
+## 🧠 About Me
 
-Sou um desenvolvedor fullstack apaixonado por tecnologia, design futurista e sistemas Linux. Com apenas 15 anos, já atuo em projetos modernos, usando stacks de ponta com foco em microserviços, DevOps e frontend de alta performance.
+I'm a passionate fullstack developer, deeply curious about futuristic design and open-source technology. At only 15, I'm already building high-performance projects using modern stacks focused on microservices, cloud infrastructure, and advanced UI.
 
 ---
 
-## ⚙️ Ecossistemas
+## ⚙️ Tech Ecosystem
 
 ### 🧩 **Frontend**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="50" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
-  <img src="https://skillicons.dev/icons?i=sass" height="50" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="50" />
-  <img src="https://skillicons.dev/icons?i=redux" height="50" />
-  <img src="https://skillicons.dev/icons?i=vitest" height="50" />
-  <img src="https://skillicons.dev/icons?i=jest" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="50" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,graphql,redux,vitest,jest" height="50" />
 </div>
 
 ---
 
-### 🧪 **Backend & Infraestrutura**
+### 🧪 **Backend & Infrastructure**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,py,cs,java,spring,prisma,appwrite,supabase,mysql,postgres,redis,rabbitmq" height="40" />
   <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" height="40" />
-  <img src="https://skillicons.dev/icons?i=appwrite" height="40" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" />
 </div>
 
 ---
 
-### ☁️ **Cloud & Plataformas**
+### ☁️ **Cloud & Platforms**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="50" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="50" />
-  <img src="https://skillicons.dev/icons?i=azure" height="50" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="50" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="50" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify" height="50" />
 </div>
 
 ---
 
-### 📦 **DevOps & Ferramentas**
+### 📦 **DevOps & Tools**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=docker" height="50" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="50" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" />
-  <img src="https://skillicons.dev/icons?i=bash" height="50" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="50" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,linux,bash,git,github,neovim" height="50" />
 </div>
 
 ---
@@ -103,7 +66,7 @@ Sou um desenvolvedor fullstack apaixonado por tecnologia, design futurista e sis
 
 ---
 
-## 🌐 Contato
+## 🌐 Connect with Me
 
 <p>
   <a href="https://github.com/Bernardo-git-dev" target="_blank">
@@ -114,13 +77,10 @@ Sou um desenvolvedor fullstack apaixonado por tecnologia, design futurista e sis
   </a>
 </p>
 
-
-###
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bernardo-git-dev/Bernardo-git-dev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bernardo-git-dev/Bernardo-git-dev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bernardo-git-dev/Bernardo-git-dev/output/pacman-contribution-graph.svg">
 </picture>
-
-###
