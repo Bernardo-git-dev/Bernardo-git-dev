@@ -35,10 +35,6 @@ Sou um desenvolvedor fullstack apaixonado por tecnologia, design futurista e sis
   <img src="https://skillicons.dev/icons?i=ts" height="50" />
   <img src="https://skillicons.dev/icons?i=react" height="50" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" />
-  <img src="https://skillicons.dev/icons?i=vue" height="50" />
-  <img src="https://skillicons.dev/icons?i=svelte" height="50" />
-  <img src="https://skillicons.dev/icons?i=solidjs" height="50" />
-  <img src="https://skillicons.dev/icons?i=astro" height="50" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
   <img src="https://skillicons.dev/icons?i=sass" height="50" />
   <img src="https://skillicons.dev/icons?i=graphql" height="50" />
