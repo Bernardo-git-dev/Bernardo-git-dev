@@ -36,7 +36,7 @@ I'm a passionate fullstack developer, deeply curious about futuristic design and
 
 ### 🧪 **Backend & Infrastructure**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,py,cs,java,spring,prisma,appwrite,supabase,mysql,postgres,redis,rabbitmq" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,py,cs,prisma,appwrite,supabase,mysql,postgres,redis,rabbitmq" height="40" />
   <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" height="40" />
 </div>
 
@@ -44,7 +44,7 @@ I'm a passionate fullstack developer, deeply curious about futuristic design and
 
 ### ☁️ **Cloud & Platforms**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify" height="50" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,render" height="50" />
 </div>
 
 ---
