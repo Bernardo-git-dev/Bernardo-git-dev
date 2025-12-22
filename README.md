@@ -21,7 +21,7 @@
 
 ## 🧠 About Me
 
-I'm a passionate fullstack developer, deeply curious about futuristic design and open-source technology. At only 15, I'm already building high-performance projects using modern stacks focused on microservices, cloud infrastructure, and advanced UI.
+I'm a passionate fullstack developer, deeply curious about futuristic design and open-source technology. At only 16, I'm already building high-performance projects using modern stacks focused on microservices, cloud infrastructure, and advanced UI.
 
 ---
 
